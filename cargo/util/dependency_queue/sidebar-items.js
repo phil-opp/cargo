@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Freshness","Indication of the freshness of a package."]],"struct":[["DependencyQueue",""]],"trait":[["Dependency","A trait for discovering the dependencies of a piece of data."]]});
